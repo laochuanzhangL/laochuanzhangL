@@ -1,6 +1,6 @@
 <strong>Hi,我是老船长!👋 </strong>
 
-<strong>是一名前端工程师🇨🇳. </strong>
+<strong>是一名前端工程师. </strong>
 
 
 
@@ -24,4 +24,4 @@
 
 
 ### 🛳 &nbsp;Your ticket ID for this visit
-<img src="https://profile-counter.glitch.me/Volcano-Yang/count.svg" />
+<img src="https://profile-counter.glitch.me/lionel-king11/count.svg" />

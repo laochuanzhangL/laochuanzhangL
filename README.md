@@ -4,8 +4,6 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lionel-king11)](https://github.com/lionel-king11/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lionel-king11)]
 
-
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=lionel-king11&repo=Arc&show_owner=true)](https://github.com/lionel-king11/Arc)
 

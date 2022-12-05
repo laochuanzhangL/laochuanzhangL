@@ -5,4 +5,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laochuanzhangL&show_icons=true&theme=#F8F5F0)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laochuanzhangL&show_icons=true&theme=#F8F5F0)](https://github.com/anuraghazra/github-readme-stats)
+
